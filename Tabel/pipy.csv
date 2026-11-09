@@ -1,0 +1,11 @@
+character_id,item_id,min_user_level,min_character_level,is_usable,is_purchasable
+11,111,20,20,true,true
+12,112,50,45,true,false
+13,113,1,1,true,true
+14,114,10,8,true,true
+15,115,15,15,true,true
+16,116,30,30,true,true
+17,117,1,5,true,true
+18,118,12,12,false,false
+19,119,40,40,true,true
+20,120,5,5,true,false
