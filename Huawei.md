@@ -39,4 +39,4 @@
 ![ERD](Tabel/ERD.png)
 
 ### 3. Проверка внешних ключей (Foreign Key)
-![Foreign Key](Tabel/pirivihni_key.png)
+![Foreign Key](https://github.com/knyazewa2000-spec/Lab1/blob/main/Tabel/pirvihni_key.png?raw=true)
